@@ -4,7 +4,7 @@ title:  "Starting Off the Tech Blog with Jekyll!"
 date:   2018-04-02 18:32:42 -0400
 categories: first-post
 ---
-After thinking about creating a site to blog about technology and self-learning programming languages, it was difficult to choose which way to go about it. 
+After thinking about creating a site to blog about Tech & Self-Learning, it was difficult to choose how to go about it. 
 
 Whether to choose **`Wordpress`**,**`Medium`**, or **`Jekyll`**.
 
