@@ -40,4 +40,3 @@ I'm glad that I chose to use `Jekyll` because it'll help me learn more about the
 
 
 
-[{{ page.title }}]("{{ page.url | relative_url }}")
