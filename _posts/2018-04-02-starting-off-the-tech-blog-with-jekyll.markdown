@@ -38,5 +38,3 @@ I'm glad that I chose to use `Jekyll` because it'll help me learn more about the
 
 `Here goes my journey~`
 
-
-
